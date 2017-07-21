@@ -1,4 +1,4 @@
-namespace FileControl
+namespace SimpleFileControl
 {
   public interface IFile
   {

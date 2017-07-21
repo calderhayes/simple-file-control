@@ -6,8 +6,8 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <DebugType>portable</DebugType>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <AssemblyName>FileControl</AssemblyName>
-    <PackageId>FileControl</PackageId>
+    <AssemblyName>SimpleFileControl</AssemblyName>
+    <PackageId>SimpleFileControl</PackageId>
     <NetStandardImplicitPackageVersion>1.6.1</NetStandardImplicitPackageVersion>
   </PropertyGroup>
 

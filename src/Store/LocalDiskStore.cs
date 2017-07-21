@@ -1,4 +1,4 @@
-namespace FileControl.Store
+namespace SimpleFileControl.Store
 {
   using System;
   using System.IO;

@@ -1,7 +1,7 @@
-﻿namespace FileControl
+﻿namespace SimpleFileControl
 {
   using System;
-  using FileControl.Store;
+  using SimpleFileControl.Store;
 
   public interface IFileStoreCollection
   {

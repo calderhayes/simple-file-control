@@ -1,9 +1,9 @@
-namespace FileControl
+namespace SimpleFileControl
 {
   using System;
   using System.Collections.Generic;
   using System.Linq;
-  using FileControl.Store;
+  using SimpleFileControl.Store;
 
   public class FileStoreCollection
     : IFileStoreCollection
